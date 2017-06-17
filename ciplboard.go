@@ -1,4 +1,4 @@
-package clipboard
+package Clipboard-Replacer
 import cb "github.com/atotto/clipboard"
 import "regexp"
 import "time"
