@@ -4,7 +4,7 @@
 ```go
 package main
 
-import clipboard "github.com/alepacheco/Clipboard-Replacer"
+import clipboard "github.com/alepacheco/ClipboardReplacer"
 
 func main() {
 	clipboard.AddRegEx("John", "Davis")
