@@ -1,5 +1,5 @@
 # Clipboard replacer
-## Modify the clipboard using regular expresions
+#### Modify the clipboard using regular expresions
 
 ```go
 package main
